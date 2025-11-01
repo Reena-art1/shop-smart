@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smart Watch Pro",
+      "description": "Advanced smartwatch with heart rate monitoring, GPS, and 5-day battery life. Perfect for fitness enthusiasts.",
+      "price": 199.99,
+      "imageUrl": "https://via.placeholder.com/300x300?text=Smart+Watch",
+      "category": "Electronics",
+      "stockQuantity": 15
+    },
+    {
+      "id": 2,
+      "name": "Wireless Noise-Canceling Headphones",
+      "description": "Premium wireless headphones with active noise cancellation and 30-hour battery life.",
+      "price": 249.99,
+      "imageUrl": "https://via.placeholder.com/300x300?text=Headphones",
+      "category": "Electronics",
+      "stockQuantity": 20
+    },
+    {
+      "id": 3,
+      "name": "Ultra HD Webcam",
+      "description": "4K webcam with auto-focus and low-light correction for crystal clear video calls.",
+      "price": 89.99,
+      "imageUrl": "https://via.placeholder.com/300x300?text=Webcam",
+      "category": "Electronics",
+      "stockQuantity": 30
+    },
+    {
+      "id": 4,
+      "name": "Ergonomic Gaming Mouse",
+      "description": "RGB gaming mouse with 16000 DPI sensor and 8 programmable buttons.",
+      "price": 59.99,
+      "imageUrl": "https://via.placeholder.com/300x300?text=Gaming+Mouse",
+      "category": "Gaming",
+      "stockQuantity": 25
+    },
+    {
+      "id": 5,
+      "name": "Mechanical Gaming Keyboard",
+      "description": "RGB mechanical keyboard with Cherry MX switches and multimedia controls.",
+      "price": 129.99,
+      "imageUrl": "https://via.placeholder.com/300x300?text=Gaming+Keyboard",
+      "category": "Gaming",
+      "stockQuantity": 18
+    },
+    {
+      "id": 6,
+      "name": "Portable Power Bank",
+      "description": "20000mAh power bank with fast charging and dual USB ports.",
+      "price": 49.99,
+      "imageUrl": "https://via.placeholder.com/300x300?text=Power+Bank",
+      "category": "Accessories",
+      "stockQuantity": 40
+    },
+    {
+      "id": 7,
+      "name": "Wireless Charging Pad",
+      "description": "15W fast wireless charging pad compatible with all Qi-enabled devices.",
+      "price": 29.99,
+      "imageUrl": "https://via.placeholder.com/300x300?text=Charging+Pad",
+      "category": "Accessories",
+      "stockQuantity": 35
+    },
+    {
+      "id": 8,
+      "name": "USB-C Hub",
+      "description": "7-in-1 USB-C hub with HDMI, USB 3.0, and SD card reader.",
+      "price": 39.99,
+      "imageUrl": "https://via.placeholder.com/300x300?text=USB+Hub",
+      "category": "Accessories",
+      "stockQuantity": 22
+    },
+    {
+      "id": 9,
+      "name": "Bluetooth Speaker",
+      "description": "Waterproof portable speaker with 24-hour battery life and deep bass.",
+      "price": 79.99,
+      "imageUrl": "https://via.placeholder.com/300x300?text=Speaker",
+      "category": "Electronics",
+      "stockQuantity": 28
+    },
+    {
+      "id": 10,
+      "name": "Gaming Headset",
+      "description": "7.1 surround sound gaming headset with noise-canceling microphone.",
+      "price": 89.99,
+      "imageUrl": "https://via.placeholder.com/300x300?text=Gaming+Headset",
+      "category": "Gaming",
+      "stockQuantity": 15
+    }
+  ]
+}
